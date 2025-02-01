@@ -1,4 +1,3 @@
-# rock_papper_scissor_game
 # Rock Paper Scissors Game
 
 ## Description
